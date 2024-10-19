@@ -1,0 +1,47 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp"
+    android:background="@color/white">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Menú Principal"
+        android:textSize="24sp"
+        android:textColor="@color/black"
+        android:layout_marginBottom="32dp" />
+
+    <Button
+        android:id="@+id/presupuesto_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Presupuesto"
+        android:textSize="18sp"
+        android:backgroundTint="@color/purple_500"
+        android:textColor="@color/white"
+        android:layout_marginTop="16dp" />
+
+    <Button
+        android:id="@+id/seguros_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Seguros"
+        android:textSize="18sp"
+        android:backgroundTint="@color/purple_500"
+        android:textColor="@color/white"
+        android:layout_marginTop="16dp" />
+
+    <Button
+        android:id="@+id/hoteles_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hoteles"
+        android:textSize="18sp"
+        android:backgroundTint="@color/purple_500"
+        android:textColor="@color/white"
+        android:layout_marginTop="16dp" />
+
+</LinearLayout>

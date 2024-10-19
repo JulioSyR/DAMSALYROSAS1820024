@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TravelApp</string>
+    <string name="insurance_image_desc">Imagen de seguro</string>
+    <string name="hotel_image_desc">Imagen de hotel</string>
+    <string name="title_seguros">Seguros Disponibles</string>
+    <string name="title_hoteles">Hoteles Disponibles</string>
+    <string name="description_seguro_a">Descripción breve del Seguro A.</string>
+    <string name="description_seguro_b">Descripción breve del Seguro B.</string>
+    <string name="description_seguro_c">Descripción breve del Seguro C.</string>
+    <string name="description_hotel_a">Descripción breve del Hotel A.</string>
+    <string name="description_hotel_b">Descripción breve del Hotel B.</string>
+    <string name="description_hotel_c">Descripción breve del Hotel C.</string>
+    <string name="price_seguro_a">$50 al mes</string>
+    <string name="price_seguro_b">$70 al mes</string>
+    <string name="price_seguro_c">$30 al mes</string>
+    <string name="price_hotel_a">$100 por noche</string>
+    <string name="price_hotel_b">$150 por noche</string>
+    <string name="price_hotel_c">$120 por noche</string>
+</resources>
